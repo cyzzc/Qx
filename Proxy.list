@@ -1156,7 +1156,7 @@ HOST-SUFFIX,comefromchina.com,Proxy
 HOST-SUFFIX,comic-mega.me,Proxy
 HOST-SUFFIX,comico.tw,Proxy
 HOST-SUFFIX,commandarms.com,Proxy
-HOST-SUFFIX,comments.app,Proxy
+#HOST-SUFFIX,comments.app,Proxy
 HOST-SUFFIX,commentshk.com,Proxy
 HOST-SUFFIX,communistcrimes.org,Proxy
 HOST-SUFFIX,communitychoicecu.com,Proxy
@@ -2433,7 +2433,7 @@ HOST-SUFFIX,gradconnection.com,Proxy
 HOST-SUFFIX,grammaly.com,Proxy
 HOST-SUFFIX,grandtrial.org,Proxy
 HOST-SUFFIX,grangorz.org,Proxy
-HOST-SUFFIX,graph.org,Proxy
+#HOST-SUFFIX,graph.org,Proxy
 HOST-SUFFIX,graphis.ne.jp,Proxy
 HOST-SUFFIX,graphql.org,Proxy
 HOST-SUFFIX,gravatar.com,Proxy
@@ -4416,7 +4416,7 @@ HOST-SUFFIX,quay.io,Proxy
 HOST-SUFFIX,questvisual.com,Proxy
 HOST-SUFFIX,quitccp.net,Proxy
 HOST-SUFFIX,quitccp.org,Proxy
-HOST-SUFFIX,quiz.directory,Proxy
+#HOST-SUFFIX,quiz.directory,Proxy
 HOST-SUFFIX,quora.com,Proxy
 HOST-SUFFIX,quoracdn.net,Proxy
 HOST-SUFFIX,quran.com,Proxy
@@ -5048,7 +5048,7 @@ HOST-SUFFIX,szbbs.net,Proxy
 HOST-SUFFIX,szetowah.org.hk,Proxy
 HOST-SUFFIX,t-g.com,Proxy
 HOST-SUFFIX,t.co,Proxy
-HOST-SUFFIX,t.me,Proxy
+#HOST-SUFFIX,t.me,Proxy
 HOST-SUFFIX,t35.com,Proxy
 HOST-SUFFIX,t66y.com,Proxy
 HOST-SUFFIX,t91y.com,Proxy
@@ -5132,7 +5132,7 @@ HOST-SUFFIX,tcpspeed.co,Proxy
 HOST-SUFFIX,tcpspeed.com,Proxy
 HOST-SUFFIX,tcsofbc.org,Proxy
 HOST-SUFFIX,tcsovi.org,Proxy
-HOST-SUFFIX,tdesktop.com,Proxy
+#HOST-SUFFIX,tdesktop.com,Proxy
 HOST-SUFFIX,tdm.com.mo,Proxy
 HOST-SUFFIX,teachparentstech.org,Proxy
 HOST-SUFFIX,teamamericany.com,Proxy
@@ -5151,7 +5151,7 @@ HOST-SUFFIX,teeniefuck.net,Proxy
 HOST-SUFFIX,teensinasia.com,Proxy
 HOST-SUFFIX,tehrantimes.com,Proxy
 HOST-SUFFIX,telecomspace.com,Proxy
-HOST-SUFFIX,telegra.ph,Proxy
+#HOST-SUFFIX,telegra.ph,Proxy
 #HOST-SUFFIX,telegram-cdn.org,Proxy
 #HOST-SUFFIX,telegram.dog,Proxy
 #HOST-SUFFIX,telegram.me,Proxy
@@ -5159,7 +5159,7 @@ HOST-SUFFIX,telegra.ph,Proxy
 #HOST-SUFFIX,telegram.space,Proxy
 #HOST-SUFFIX,telegramdownload.com,Proxy
 HOST-SUFFIX,telegraph.co.uk,Proxy
-HOST-SUFFIX,telesco.pe,Proxy
+#HOST-SUFFIX,telesco.pe,Proxy
 HOST-SUFFIX,tellme.pw,Proxy
 HOST-SUFFIX,tenacy.com,Proxy
 HOST-SUFFIX,tenor.com,Proxy
@@ -5588,7 +5588,7 @@ HOST-SUFFIX,twtrland.com,Proxy
 HOST-SUFFIX,twttr.com,Proxy
 HOST-SUFFIX,twurl.nl,Proxy
 HOST-SUFFIX,twyac.org,Proxy
-HOST-SUFFIX,tx.me,Proxy
+#HOST-SUFFIX,tx.me,Proxy
 HOST-SUFFIX,txmblr.com,Proxy
 HOST-SUFFIX,txxx.com,Proxy
 HOST-SUFFIX,tycool.com,Proxy
