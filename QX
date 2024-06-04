@@ -166,6 +166,14 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Qu
 
 #请求列表计划任务
 [task_local]
+# 媒体解锁查询
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=媒体解锁查询, img-url=play.circle.system, enabled=true
+
+# 节点信息查询
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/server-info-plus.js, tag=节点信息查询, img-url=tag.circle.system, enabled=true
+
+# 节点送中查询
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js, tag=节点送中查询, img-url=drop.circle.system, enabled=true
 
 #本地HttpBackend服务器
 [http_backend]
