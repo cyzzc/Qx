@@ -918,7 +918,6 @@ HOST-SUFFIX,cdcparty.com,Proxy
 HOST-SUFFIX,cdef.org,Proxy
 HOST-SUFFIX,cdig.info,Proxy
 HOST-SUFFIX,cdjp.org,Proxy
-HOST-SUFFIX,cdn-telegram.org,Proxy
 HOST-SUFFIX,cdn.angruo.com,Proxy
 HOST-SUFFIX,cdn.segment.com,Proxy
 HOST-SUFFIX,cdnews.com.tw,Proxy
@@ -1160,7 +1159,6 @@ HOST-SUFFIX,comefromchina.com,Proxy
 HOST-SUFFIX,comic-mega.me,Proxy
 HOST-SUFFIX,comico.tw,Proxy
 HOST-SUFFIX,commandarms.com,Proxy
-HOST-SUFFIX,comments.app,Proxy
 HOST-SUFFIX,commentshk.com,Proxy
 HOST-SUFFIX,communistcrimes.org,Proxy
 HOST-SUFFIX,communitychoicecu.com,Proxy
@@ -2437,7 +2435,6 @@ HOST-SUFFIX,gradconnection.com,Proxy
 HOST-SUFFIX,grammaly.com,Proxy
 HOST-SUFFIX,grandtrial.org,Proxy
 HOST-SUFFIX,grangorz.org,Proxy
-HOST-SUFFIX,graph.org,Proxy
 HOST-SUFFIX,graphis.ne.jp,Proxy
 HOST-SUFFIX,graphql.org,Proxy
 HOST-SUFFIX,gravatar.com,Proxy
@@ -4419,7 +4416,6 @@ HOST-SUFFIX,quay.io,Proxy
 HOST-SUFFIX,questvisual.com,Proxy
 HOST-SUFFIX,quitccp.net,Proxy
 HOST-SUFFIX,quitccp.org,Proxy
-HOST-SUFFIX,quiz.directory,Proxy
 HOST-SUFFIX,quora.com,Proxy
 HOST-SUFFIX,quoracdn.net,Proxy
 HOST-SUFFIX,quran.com,Proxy
@@ -5051,7 +5047,6 @@ HOST-SUFFIX,szbbs.net,Proxy
 HOST-SUFFIX,szetowah.org.hk,Proxy
 HOST-SUFFIX,t-g.com,Proxy
 HOST-SUFFIX,t.co,Proxy
-HOST-SUFFIX,t.me,Proxy
 HOST-SUFFIX,t35.com,Proxy
 HOST-SUFFIX,t66y.com,Proxy
 HOST-SUFFIX,t91y.com,Proxy
@@ -5135,7 +5130,6 @@ HOST-SUFFIX,tcpspeed.co,Proxy
 HOST-SUFFIX,tcpspeed.com,Proxy
 HOST-SUFFIX,tcsofbc.org,Proxy
 HOST-SUFFIX,tcsovi.org,Proxy
-HOST-SUFFIX,tdesktop.com,Proxy
 HOST-SUFFIX,tdm.com.mo,Proxy
 HOST-SUFFIX,teachparentstech.org,Proxy
 HOST-SUFFIX,teamamericany.com,Proxy
@@ -5154,15 +5148,7 @@ HOST-SUFFIX,teeniefuck.net,Proxy
 HOST-SUFFIX,teensinasia.com,Proxy
 HOST-SUFFIX,tehrantimes.com,Proxy
 HOST-SUFFIX,telecomspace.com,Proxy
-HOST-SUFFIX,telegra.ph,Proxy
-HOST-SUFFIX,telegram-cdn.org,Proxy
-HOST-SUFFIX,telegram.dog,Proxy
-HOST-SUFFIX,telegram.me,Proxy
-HOST-SUFFIX,telegram.org,Proxy
-HOST-SUFFIX,telegram.space,Proxy
-HOST-SUFFIX,telegramdownload.com,Proxy
 HOST-SUFFIX,telegraph.co.uk,Proxy
-HOST-SUFFIX,telesco.pe,Proxy
 HOST-SUFFIX,tellme.pw,Proxy
 HOST-SUFFIX,tenacy.com,Proxy
 HOST-SUFFIX,tenor.com,Proxy
@@ -5592,7 +5578,6 @@ HOST-SUFFIX,twtrland.com,Proxy
 HOST-SUFFIX,twttr.com,Proxy
 HOST-SUFFIX,twurl.nl,Proxy
 HOST-SUFFIX,twyac.org,Proxy
-HOST-SUFFIX,tx.me,Proxy
 HOST-SUFFIX,txmblr.com,Proxy
 HOST-SUFFIX,txxx.com,Proxy
 HOST-SUFFIX,tycool.com,Proxy
@@ -6417,7 +6402,6 @@ IP-CIDR,103.2.28.0/22,Proxy
 IP-CIDR,103.246.56.0/22,Proxy
 IP-CIDR,103.27.148.0/22,Proxy
 IP-CIDR,103.4.96.0/22,Proxy
-IP-CIDR,109.239.140.0/24,Proxy
 IP-CIDR,110.76.140.0/22,Proxy
 IP-CIDR,113.61.104.0/22,Proxy
 IP-CIDR,119.235.224.0/21,Proxy
@@ -6440,7 +6424,6 @@ IP-CIDR,13.32.0.0/15,Proxy
 IP-CIDR,13.35.0.0/17,Proxy
 IP-CIDR,14.102.250.18/31,Proxy
 IP-CIDR,147.92.128.0/17,Proxy
-IP-CIDR,149.154.160.0/20,Proxy
 IP-CIDR,157.240.0.0/17,Proxy
 IP-CIDR,158.85.224.160/27,Proxy
 IP-CIDR,158.85.46.128/27,Proxy
@@ -6505,8 +6488,4 @@ IP-CIDR,74.125.0.0/16,Proxy
 IP-CIDR,74.86.0.0/16,Proxy
 IP-CIDR,75.126.0.0/16,Proxy
 IP-CIDR,91.105.192.0/23,Proxy
-IP-CIDR,91.108.0.0/16,Proxy
-IP6-CIDR,2001:67c:4e8::/48,Proxy
-IP6-CIDR,2001:b28:f23d::/48,Proxy
-IP6-CIDR,2001:b28:f23f::/48,Proxy
 IP6-CIDR,2a0a:f280::/32,Proxy
