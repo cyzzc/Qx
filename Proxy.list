@@ -912,7 +912,7 @@ HOST-SUFFIX,cdcparty.com,Proxy
 HOST-SUFFIX,cdef.org,Proxy
 HOST-SUFFIX,cdig.info,Proxy
 HOST-SUFFIX,cdjp.org,Proxy
-HOST-SUFFIX,cdn-telegram.org,Proxy
+#HOST-SUFFIX,cdn-telegram.org,Proxy
 HOST-SUFFIX,cdn.angruo.com,Proxy
 HOST-SUFFIX,cdn.jwplayer.com,Proxy
 HOST-SUFFIX,cdn.segment.com,Proxy
@@ -5152,12 +5152,12 @@ HOST-SUFFIX,teensinasia.com,Proxy
 HOST-SUFFIX,tehrantimes.com,Proxy
 HOST-SUFFIX,telecomspace.com,Proxy
 HOST-SUFFIX,telegra.ph,Proxy
-HOST-SUFFIX,telegram-cdn.org,Proxy
-HOST-SUFFIX,telegram.dog,Proxy
-HOST-SUFFIX,telegram.me,Proxy
-HOST-SUFFIX,telegram.org,Proxy
-HOST-SUFFIX,telegram.space,Proxy
-HOST-SUFFIX,telegramdownload.com,Proxy
+#HOST-SUFFIX,telegram-cdn.org,Proxy
+#HOST-SUFFIX,telegram.dog,Proxy
+#HOST-SUFFIX,telegram.me,Proxy
+#HOST-SUFFIX,telegram.org,Proxy
+#HOST-SUFFIX,telegram.space,Proxy
+#HOST-SUFFIX,telegramdownload.com,Proxy
 HOST-SUFFIX,telegraph.co.uk,Proxy
 HOST-SUFFIX,telesco.pe,Proxy
 HOST-SUFFIX,tellme.pw,Proxy
@@ -6388,7 +6388,7 @@ HOST-KEYWORD,porn,Proxy
 HOST-KEYWORD,sci-hub,Proxy
 HOST-KEYWORD,skydrive,Proxy
 HOST-KEYWORD,spotify,Proxy
-HOST-KEYWORD,telegram,Proxy
+#HOST-KEYWORD,telegram,Proxy
 HOST-KEYWORD,tiktok,Proxy
 HOST-KEYWORD,ttvnw,Proxy
 HOST-KEYWORD,twitter,Proxy
