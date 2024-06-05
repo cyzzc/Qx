@@ -2087,7 +2087,6 @@ HOST-SUFFIX,gfw.report,Proxy
 HOST-SUFFIX,gfwlist.end,Proxy
 HOST-SUFFIX,gfwlist.start,Proxy
 HOST-SUFFIX,gfx.ms,Proxy
-HOST-SUFFIX,ggpht.com,Proxy
 HOST-SUFFIX,ggssl.com,Proxy
 HOST-SUFFIX,ghcr.io,Proxy
 HOST-SUFFIX,ghidra-sre.org,Proxy
@@ -2387,7 +2386,6 @@ HOST-SUFFIX,google.vg,Proxy
 HOST-SUFFIX,google.vn,Proxy
 HOST-SUFFIX,google.vu,Proxy
 HOST-SUFFIX,google.ws,Proxy
-HOST-SUFFIX,googleapis.com,Proxy
 HOST-SUFFIX,googleapps.com,Proxy
 HOST-SUFFIX,googlearth.com,Proxy
 HOST-SUFFIX,googleartproject.com,Proxy
@@ -2413,7 +2411,6 @@ HOST-SUFFIX,googlescholar.comusa,Proxy
 HOST-SUFFIX,googlesile.com,Proxy
 HOST-SUFFIX,googlesource.com,Proxy
 HOST-SUFFIX,googleusercontent.com,Proxy
-HOST-SUFFIX,googlevideo.com,Proxy
 HOST-SUFFIX,googleweblight.com,Proxy
 HOST-SUFFIX,googlezip.net,Proxy
 HOST-SUFFIX,gopetition.com,Proxy
@@ -2483,7 +2480,6 @@ HOST-SUFFIX,gutteruncensored.com,Proxy
 HOST-SUFFIX,gvlib.com,Proxy
 HOST-SUFFIX,gvm.com.tw,Proxy
 HOST-SUFFIX,gvt0.com,Proxy
-HOST-SUFFIX,gvt1.com,Proxy
 HOST-SUFFIX,gvt3.com,Proxy
 HOST-SUFFIX,gwins.org,Proxy
 HOST-SUFFIX,gwtproject.org,Proxy
@@ -6014,7 +6010,6 @@ HOST-SUFFIX,wisdompubs.org,Proxy
 HOST-SUFFIX,wisevid.com,Proxy
 HOST-SUFFIX,wistia.com,Proxy
 HOST-SUFFIX,withgoogle.com,Proxy
-HOST-SUFFIX,withyoutube.com,Proxy
 HOST-SUFFIX,witnessleeteaching.com,Proxy
 HOST-SUFFIX,witopia.net,Proxy
 HOST-SUFFIX,wizcrafts.net,Proxy
@@ -6252,21 +6247,14 @@ HOST-SUFFIX,youshun12.com,Proxy
 HOST-SUFFIX,youthforfreechina.org,Proxy
 HOST-SUFFIX,youthnetradio.org,Proxy
 HOST-SUFFIX,youthwant.com.tw,Proxy
-HOST-SUFFIX,youtu.be,Proxy
 HOST-SUFFIX,youtube-nocookie.com,Proxy
-HOST-SUFFIX,youtube.com,Proxy
 HOST-SUFFIX,youtubecn.com,Proxy
-HOST-SUFFIX,youtubeeducation.com,Proxy
-HOST-SUFFIX,youtubegaming.com,Proxy
-HOST-SUFFIX,youtubekids.com,Proxy
 HOST-SUFFIX,youversion.com,Proxy
 HOST-SUFFIX,youwin.com,Proxy
 HOST-SUFFIX,youxu.info,Proxy
 HOST-SUFFIX,yoyo.org,Proxy
 HOST-SUFFIX,ypncdn.com,Proxy
-HOST-SUFFIX,yt.be,Proxy
 HOST-SUFFIX,ytht.net,Proxy
-HOST-SUFFIX,ytimg.com,Proxy
 HOST-SUFFIX,ytn.co.kr,Proxy
 HOST-SUFFIX,yuanzhengtang.org,Proxy
 HOST-SUFFIX,yulghun.com,Proxy
@@ -6385,7 +6373,6 @@ HOST-KEYWORD,ttvnw,Proxy
 HOST-KEYWORD,twitter,Proxy
 HOST-KEYWORD,uk-live,Proxy
 HOST-KEYWORD,whatsapp,Proxy
-HOST-KEYWORD,youtube,Proxy
 USER-AGENT,Duolingo*,Proxy
 USER-AGENT,OneDrive*,Proxy
 USER-AGENT,PayPal*,Proxy
