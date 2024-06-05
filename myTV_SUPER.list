@@ -1,1 +1,5 @@
-a
+# NAME: myTV_SUPER
+HOST-SUFFIX,mytvsuper.com,myTV_SUPER
+HOST-SUFFIX,mytvsuperlimited.hb.omtrdc.net,myTV_SUPER
+HOST-SUFFIX,mytvsuperlimited.sc.omtrdc.net,myTV_SUPER
+USER-AGENT,mytv*,myTV_SUPER
