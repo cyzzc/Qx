@@ -112,7 +112,7 @@ dest-hash=负载均衡(随机), server-tag-regex=^*$, img-url=https://raw.github
 [server_remote]
 https, tag=自建, img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/VPS31.png, update-interval=-1, opt-parser=true, enabled=true
 
-https, tag=CF-优选, img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/Ecloud1.png, update-interval=172800, opt-parser=true, enabled=true
+https1, tag=CF-优选, img-url=https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/Ecloud1.png, update-interval=172800, opt-parser=true, enabled=true
 
 #本地分流规则(对于完全相同的某条规则，本地的将优先生效)
 [filter_local]
