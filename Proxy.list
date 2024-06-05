@@ -2082,7 +2082,6 @@ HOST-SUFFIX,gfwlist.end,Proxy
 HOST-SUFFIX,gfwlist.start,Proxy
 HOST-SUFFIX,gfx.ms,Proxy
 HOST-SUFFIX,ggssl.com,Proxy
-HOST-SUFFIX,ghcr.io,Proxy
 HOST-SUFFIX,ghidra-sre.org,Proxy
 HOST-SUFFIX,ghostnoteapp.com,Proxy
 HOST-SUFFIX,ghostpath.com,Proxy
@@ -2094,16 +2093,9 @@ HOST-SUFFIX,gigacircle.com,Proxy
 HOST-SUFFIX,giganews.com,Proxy
 HOST-SUFFIX,gigporno.ru,Proxy
 HOST-SUFFIX,girlbanker.com,Proxy
-HOST-SUFFIX,git.io,Proxy
 HOST-SUFFIX,gitbook.com,Proxy
 HOST-SUFFIX,gitbooks.io,Proxy
 HOST-SUFFIX,githack.com,Proxy
-HOST-SUFFIX,github.blog,Proxy
-HOST-SUFFIX,github.com,Proxy
-HOST-SUFFIX,github.io,Proxy
-HOST-SUFFIX,githubapp.com,Proxy
-HOST-SUFFIX,githubassets.com,Proxy
-HOST-SUFFIX,githubusercontent.com,Proxy
 HOST-SUFFIX,gitlab.com,Proxy
 HOST-SUFFIX,gitlab.io,Proxy
 HOST-SUFFIX,gizlen.net,Proxy
@@ -4448,8 +4440,6 @@ HOST-SUFFIX,raremovie.cc,Proxy
 HOST-SUFFIX,raremovie.net,Proxy
 HOST-SUFFIX,rateyourmusic.com,Proxy
 HOST-SUFFIX,rationalwiki.org,Proxy
-HOST-SUFFIX,rawgit.com,Proxy
-HOST-SUFFIX,rawgithub.com,Proxy
 HOST-SUFFIX,raxcdn.com,Proxy
 HOST-SUFFIX,razyboard.com,Proxy
 HOST-SUFFIX,rcinet.ca,Proxy
@@ -6345,7 +6335,6 @@ HOST-KEYWORD,dlercloud,Proxy
 HOST-KEYWORD,dropbox,Proxy
 HOST-KEYWORD,facebook,Proxy
 HOST-KEYWORD,fbcdn,Proxy
-HOST-KEYWORD,github,Proxy
 HOST-KEYWORD,gmail,Proxy
 HOST-KEYWORD,google,Proxy
 HOST-KEYWORD,instagram,Proxy
