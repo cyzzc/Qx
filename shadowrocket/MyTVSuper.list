@@ -1,9 +1,13 @@
 # 内容：MyTVSuper
 # 数量：7条
 USER-AGENT,mytv*
+USER-AGENT,tvb*
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,ads.cdn.tvb.com
+DOMAIN-SUFFIX,ads.tvb.com
