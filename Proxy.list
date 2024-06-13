@@ -16,7 +16,7 @@ HOST,aqi.aqicn.org,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
 HOST,assets.msn.com,Proxy
 HOST,cdp.cloud.unity3d.com,Proxy
-#HOST,chat.openai.com.cdn.cloudflare.net,Proxy
+HOST,chat.openai.com.cdn.cloudflare.net,Proxy
 HOST,cloud.oracle.com,Proxy
 HOST,copilot.microsoft.com,Proxy
 HOST,cvws.icloud-content.com,Proxy
@@ -1096,8 +1096,8 @@ HOST-SUFFIX,clipfish.de,Proxy
 HOST-SUFFIX,cloakpoint.com,Proxy
 HOST-SUFFIX,cloud.cupronickel.goog,Proxy
 HOST-SUFFIX,cloudcone.com,Proxy
-#HOST-SUFFIX,cloudflare-ipfs.com,Proxy
-#HOST-SUFFIX,cloudflare.com,Proxy
+HOST-SUFFIX,cloudflare-ipfs.com,Proxy
+HOST-SUFFIX,cloudflare.com,Proxy
 HOST-SUFFIX,cloudfront.net,Proxy
 HOST-SUFFIX,cloudfunctions.net,Proxy
 HOST-SUFFIX,cloudgarage.jp,Proxy
