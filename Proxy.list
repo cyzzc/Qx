@@ -16,7 +16,7 @@ HOST,aqi.aqicn.org,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
 HOST,assets.msn.com,Proxy
 HOST,cdp.cloud.unity3d.com,Proxy
-HOST,chat.openai.com.cdn.cloudflare.net,Proxy
+#HOST,chat.openai.com.cdn.cloudflare.net,Proxy
 HOST,cloud.oracle.com,Proxy
 HOST,copilot.microsoft.com,Proxy
 HOST,cvws.icloud-content.com,Proxy
