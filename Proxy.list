@@ -1097,7 +1097,7 @@ HOST-SUFFIX,cloakpoint.com,Proxy
 HOST-SUFFIX,cloud.cupronickel.goog,Proxy
 HOST-SUFFIX,cloudcone.com,Proxy
 #HOST-SUFFIX,cloudflare-ipfs.com,Proxy
-HOST-SUFFIX,cloudflare.com,Proxy
+#HOST-SUFFIX,cloudflare.com,Proxy
 HOST-SUFFIX,cloudfront.net,Proxy
 HOST-SUFFIX,cloudfunctions.net,Proxy
 HOST-SUFFIX,cloudgarage.jp,Proxy
