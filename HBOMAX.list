@@ -7,6 +7,7 @@
 # USER-AGENT: 2
 # TOTAL: 48
 HOST,wmff.warnermediacdn.com,HBOMAX
+HOST-SUFFIX,prd.api.discomax.com,HBOMAX
 HOST-SUFFIX,bcbolthboa-a.akamaihd.net,HBOMAX
 HOST-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,HBOMAX
 HOST-SUFFIX,cinemax.com,HBOMAX
@@ -52,7 +53,6 @@ HOST-SUFFIX,nowe.com,HBOMAX
 HOST-SUFFIX,nowe.hk,HBOMAX
 HOST-SUFFIX,players.brightcove.net,HBOMAX
 HOST-SUFFIX,youboranqs01.com,HBOMAX
-HOST-SUFFIX,prd.api.discomax.com,HBOMAX
 HOST-SUFFIX,max.com,HBOMAX
 USER-AGENT,HBOMAX%20NOW*,HBOMAX
 USER-AGENT,HBOMAX*,HBOMAX
