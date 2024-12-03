@@ -1,0 +1,58 @@
+# NAME: HBOMAX
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:13
+# HOST: 1
+# HOST-SUFFIX: 45
+# USER-AGENT: 2
+# TOTAL: 48
+HOST,wmff.warnermediacdn.com,HBOMAX
+HOST-SUFFIX,bcbolthboa-a.akamaihd.net,HBOMAX
+HOST-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,HBOMAX
+HOST-SUFFIX,cinemax.com,HBOMAX
+HOST-SUFFIX,dai3fd1oh325y.cloudfront.net,HBOMAX
+HOST-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,HBOMAX
+HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,HBOMAX
+HOST-SUFFIX,forthethrone.com,HBOMAX
+HOST-SUFFIX,hbo.com,HBOMAX
+HOST-SUFFIX,hbo.com.c.footprint.net,HBOMAX
+HOST-SUFFIX,hbo.com.edgesuite.net,HBOMAX
+HOST-SUFFIX,hbo.map.fastly.net,HBOMAX
+HOST-SUFFIX,hboasia.com,HBOMAX
+HOST-SUFFIX,hboasia1-i.akamaihd.net,HBOMAX
+HOST-SUFFIX,hboasia2-i.akamaihd.net,HBOMAX
+HOST-SUFFIX,hboasia3-i.akamaihd.net,HBOMAX
+HOST-SUFFIX,hboasia4-i.akamaihd.net,HBOMAX
+HOST-SUFFIX,hboasia5-i.akamaihd.net,HBOMAX
+HOST-SUFFIX,hboasialive.akamaized.net,HBOMAX
+HOST-SUFFIX,hbogeo.cust.footprint.net,HBOMAX
+HOST-SUFFIX,hbogo.co.th,HBOMAX
+HOST-SUFFIX,hbogo.com,HBOMAX
+HOST-SUFFIX,hbogo.eu,HBOMAX
+HOST-SUFFIX,hbogoasia.com,HBOMAX
+HOST-SUFFIX,hbogoasia.hk,HBOMAX
+HOST-SUFFIX,hbogoasia.id,HBOMAX
+HOST-SUFFIX,hbogoasia.ph,HBOMAX
+HOST-SUFFIX,hbogoasia.sg,HBOMAX
+HOST-SUFFIX,hbogoasia.tw,HBOMAX
+HOST-SUFFIX,hbogoprod-vod.akamaized.net,HBOMAX
+HOST-SUFFIX,hbolb.onwardsmg.com,HBOMAX
+HOST-SUFFIX,hbomax.com,HBOMAX
+HOST-SUFFIX,hbomaxcdn.com,HBOMAX
+HOST-SUFFIX,hbomaxdash.s.llnwi.net,HBOMAX
+HOST-SUFFIX,hbonow.com,HBOMAX
+HOST-SUFFIX,hbounify-prod.evergent.com,HBOMAX
+HOST-SUFFIX,manifest.prod.boltdns.net,HBOMAX
+HOST-SUFFIX,maxgo.com,HBOMAX
+HOST-SUFFIX,now-ashare.com,HBOMAX
+HOST-SUFFIX,now-tv.com,HBOMAX
+HOST-SUFFIX,now.com,HBOMAX
+HOST-SUFFIX,now.com.hk,HBOMAX
+HOST-SUFFIX,nowe.com,HBOMAX
+HOST-SUFFIX,nowe.hk,HBOMAX
+HOST-SUFFIX,players.brightcove.net,HBOMAX
+HOST-SUFFIX,youboranqs01.com,HBOMAX
+HOST-SUFFIX,prd.api.discomax.com
+HOST-SUFFIX,max.com
+USER-AGENT,HBOMAX%20NOW*,HBOMAX
+USER-AGENT,HBOMAX*,HBOMAX
