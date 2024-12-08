@@ -1,5 +1,4 @@
 # NAME: Game
-HOST,app-analytics-services.com,Game
 HOST-SUFFIX,applovin.com,Game
 HOST-SUFFIX,appsflyersdk.com,Game
 HOST-SUFFIX,devtodev.com,Game
@@ -28,6 +27,7 @@ HOST-SUFFIX,mintegral.net,Game
 HOST-SUFFIX,page.link,Game
 HOST-SUFFIX,rayjump.com,Game
 HOST-SUFFIX,singular.net,Game
+HOST-SUFFIX,unity3d.com,Game
 HOST-SUFFIX,unity3dusercontent.com,Game
 HOST-KEYWORD,gameloft,Game
 HOST-KEYWORD,skadsdkless,Game
