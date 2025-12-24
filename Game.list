@@ -45,3 +45,11 @@ HOST-SUFFIX,perplexity.ai,Game
 HOST-SUFFIX,pplx.ai,Game
 # > 备用及 CDN (部分资源可能托管在以下域名)
 HOST-KEYWORD,perplexity,Game
+# > Grok AI / xAI
+HOST-SUFFIX,grok.com,Game
+HOST-SUFFIX,x.ai,Game
+HOST-SUFFIX,api.x.ai,Game
+# > 关联服务 (如在 X 平台内使用，建议确保以下规则也生效)
+HOST-SUFFIX,x.com,Game
+HOST-SUFFIX,twitter.com,Game
+
