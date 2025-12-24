@@ -3,15 +3,3 @@ HOST-SUFFIX,kefirgames.ru,Zzc
 HOST-SUFFIX,amazonaws.com,Zzc
 HOST-SUFFIX,gmlft.co,Zzc
 HOST-SUFFIX,glops.co,Zzc
-# > Gemini / Google AI
-HOST-SUFFIX, gemini.google.com, Zzc
-HOST-SUFFIX, ai.google.dev, Zzc
-HOST-SUFFIX, aistudio.google.com, Zzc
-HOST-SUFFIX, alkalimessages-pa.googleapis.com, Zzc
-HOST-SUFFIX, generativelanguage.googleapis.com, Zzc
-HOST-SUFFIX, proactivebackend-pa.googleapis.com, Zzc
-HOST-SUFFIX, googleusercontent.com, Zzc
-
-# > 备用及辅助域名
-HOST-KEYWORD, snippets-pa.googleapis.com, Zzc
-HOST-SUFFIX, bard.google.com, Zzc
