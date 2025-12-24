@@ -29,3 +29,14 @@ HOST-SUFFIX,singular.net,Game
 HOST-SUFFIX,unity3dusercontent.com,Game
 HOST-KEYWORD,gameloft,Game
 HOST-KEYWORD,skadsdkless,Game
+# > Gemini / Google AI
+HOST-SUFFIX,gemini.google.com,Game
+HOST-SUFFIX,ai.google.dev,Game
+HOST-SUFFIX,aistudio.google.com,Game
+HOST-SUFFIX,alkalimessages-pa.googleapis.com,Game
+HOST-SUFFIX,generativelanguage.googleapis.com,Game
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,Game
+HOST-SUFFIX,googleusercontent.com,Game
+# > 备用及辅助
+HOST-KEYWORD,snippets-pa.googleapis.com,Game
+HOST-SUFFIX,bard.google.com,Game
