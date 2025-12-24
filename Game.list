@@ -40,3 +40,8 @@ HOST-SUFFIX,googleusercontent.com,Game
 # > 备用及辅助
 HOST-KEYWORD,snippets-pa.googleapis.com,Game
 HOST-SUFFIX,bard.google.com,Game
+# > Perplexity AI
+HOST-SUFFIX,perplexity.ai,Game
+HOST-SUFFIX,pplx.ai,Game
+# > 备用及 CDN (部分资源可能托管在以下域名)
+HOST-KEYWORD,perplexity,Game
