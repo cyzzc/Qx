@@ -49,3 +49,5 @@ HOST-KEYWORD,perplexity,Game
 HOST-SUFFIX,grok.com,Game
 HOST-SUFFIX,x.ai,Game
 HOST-SUFFIX,api.x.ai,Game
+# > 自定义
+HOST-SUFFIX,go-iptv.ggff.net,Game
