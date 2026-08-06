@@ -1,0 +1,22 @@
+# NAME: ibkr
+HOST-SUFFIX,ibkr.com,ibkr
+HOST-SUFFIX,ibllc.com,ibkr
+HOST-SUFFIX,ibkr.com.hk,ibkr
+HOST-SUFFIX,ibkr.com.au,ibkr
+HOST-SUFFIX,ibcdn.com,ibkr
+HOST-SUFFIX,iblink.com,ibkr
+HOST-SUFFIX,interactivebrokers.com,ibkr
+HOST-SUFFIX,interactivebrokers.com.hk,ibkr
+HOST-SUFFIX,interactivebrokers.ca,ibkr
+HOST-SUFFIX,interactivebrokers.ie,ibkr
+HOST-SUFFIX,interactivebrokers.co.uk,ibkr
+HOST-SUFFIX,interactivebrokers.co.in,ibkr
+HOST-SUFFIX,interactivebrokers.co.in,ibkr
+HOST-SUFFIX,interactivebrokers.com.sg,ibkr
+HOST-SUFFIX,interactivebrokers.com.au,ibkr
+HOST-SUFFIX,ndcdyn.interactivebrokers.com,ibkr
+HOST-SUFFIX,cdcdyn.interactivebrokers.com,ibkr
+HOST-SUFFIX,thinkorswim.com,ibkr
+HOST-SUFFIX,tdameritrade.com,ibkr
+HOST-SUFFIX,schwab.com,ibkr
+HOST,tosmediaserver.schwab.com,ibkr
