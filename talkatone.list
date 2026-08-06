@@ -8,6 +8,7 @@ HOST-SUFFIX,cohere.com,talkatone
 HOST-SUFFIX,ip-api.com,talkatone
 HOST-SUFFIX,agkn.com,talkatone
 HOST-SUFFIX,tktn.at,talkatone
+HOST-SUFFIX,tenor.com,talkatone
 IP-CIDR,50.117.27.0/24,talkatone
 IP-CIDR,69.46.75.0/24,talkatone
 IP-CIDR,205.164.56.0/24,talkatone
