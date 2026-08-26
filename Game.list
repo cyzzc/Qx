@@ -1,4 +1,7 @@
 # NAME: Game
+HOST,cdn-store-icons-akamai-prd.unityads.unity3d.com.edgekey.net,Game
+HOST,stats.unity3d.com,Game
+HOST,unityads.unity3d.com.edgekey.net,Game
 HOST-SUFFIX,unity3d.com,Game
 HOST-SUFFIX,app-analytics-services.com,Game
 HOST-SUFFIX,axon.ai,Game
@@ -37,6 +40,27 @@ HOST-SUFFIX,page.link,Game
 HOST-SUFFIX,rayjump.com,Game
 HOST-SUFFIX,singular.net,Game
 HOST-SUFFIX,unity3dusercontent.com,Game
+HOST-SUFFIX,ads-privacy-api.prd.mz.internal.unity3d.com,Game
+HOST-SUFFIX,api.uca.cloud.unity3d.com,Game
+HOST-SUFFIX,cdp.cloud.unity3d.com,Game
+HOST-SUFFIX,config.uca.cloud.unity3d.com,Game
+HOST-SUFFIX,data-optout-service.uca.cloud.unity3d.com,Game
+HOST-SUFFIX,events.iap.unity3d.com,Game
+HOST-SUFFIX,events.mz.unity3d.com,Game
+HOST-SUFFIX,hwstats.unity3d.com,Game
+HOST-SUFFIX,iads.unity3d.com,Game
+HOST-SUFFIX,mediation-tracking.prd.mz.internal.unity3d.com,Game
+HOST-SUFFIX,mediation.unity3d.com,Game
+HOST-SUFFIX,pls.prd.mz.internal.unity3d.com,Game
+HOST-SUFFIX,thind-gke-euw.prd.data.corp.unity3d.com,Game
+HOST-SUFFIX,tracking.prd.mz.internal.unity3d.com,Game
+HOST-SUFFIX,userreporting.cloud.unity3d.com,Game
+HOST-SUFFIX,ads.internal.unity3d.com,Game
+HOST-SUFFIX,ads.prd.ie.internal.unity3d.com,Game
+HOST-SUFFIX,unityads.unity3d.com,Game
+HOST-SUFFIX,eloqua-tracking.unity3d.com,Game
+HOST-SUFFIX,eloqua-trackings.unity3d.com,Game
+HOST-SUFFIX,perf-events.cloud.unity3d.com,Game
 HOST-KEYWORD,gameloft,Game
 HOST-KEYWORD,skadsdkless,Game
 # > Gemini / Google AI
