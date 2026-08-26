@@ -1,4 +1,11 @@
 # NAME: Game
+HOST-SUFFIX,unity3d.com,Game
+HOST-SUFFIX,app-analytics-services.com,Game
+HOST-SUFFIX,axon.ai,Game
+HOST-SUFFIX,adjust.com,Game
+HOST-SUFFIX,sentry.io,Game
+HOST-SUFFIX,anzuinfra.com,Game
+HOST-SUFFIX,helpshift.com,Game
 HOST-SUFFIX,applovin.com,Game
 HOST-SUFFIX,appsflyersdk.com,Game
 HOST-SUFFIX,devtodev.com,Game
