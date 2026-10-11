@@ -1,0 +1,33 @@
+# ===== TVB / myTV SUPER =====
+# 将本段放入 [Rule]，且必须置于 GEOIP / FINAL 等兜底规则之前。
+# 前提：你已在 [Proxy Group] 中定义 TVB 和 myTV_SUPER 两个策略组。
+
+# --- TVB：精确域名 ---
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,edge.api.brightcove.com
+DOMAIN,tvbtracking.azurewebsites.net
+
+# --- TVB：域名后缀 ---
+DOMAIN-SUFFIX,ads.cdn.tvb.com
+DOMAIN-SUFFIX,ads.tvb.com
+DOMAIN-SUFFIX,bigbigchannel.com.hk
+DOMAIN-SUFFIX,bigbigshop.com
+DOMAIN-SUFFIX,content.jwplatform.com
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,tvb.com.au
+DOMAIN-SUFFIX,tvbanywhere.com
+DOMAIN-SUFFIX,tvbanywhere.com.sg
+DOMAIN-SUFFIX,tvbc.com.cn
+DOMAIN-SUFFIX,tvbeventpower.com.hk
+DOMAIN-SUFFIX,tvbusa.com
+DOMAIN-SUFFIX,tvbweekly.com
+DOMAIN-SUFFIX,tvmedia.net.au
+DOMAIN-SUFFIX,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,youboranqs01.com
+
+# --- myTV SUPER ---
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
+DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
+USER-AGENT,mytv*
