@@ -1,0 +1,21 @@
+# ===== 美股券商：IBKR / Schwab / thinkorswim =====
+# 请放在 [Rule] 段内，并置于 GEOIP、FINAL、MATCH 规则之前
+# --- Interactive Brokers / IBKR ---
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,ibkr.com.hk
+DOMAIN-SUFFIX,ibkr.com.au
+DOMAIN-SUFFIX,ibcdn.com
+DOMAIN-SUFFIX,iblink.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.ca
+DOMAIN-SUFFIX,interactivebrokers.ie
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,interactivebrokers.co.in
+DOMAIN-SUFFIX,interactivebrokers.com.sg
+DOMAIN-SUFFIX,interactivebrokers.com.au
+# --- Charles Schwab / TD Ameritrade / thinkorswim ---
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,schwab.com
