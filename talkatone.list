@@ -13,3 +13,17 @@ IP-CIDR,50.117.27.0/24,talkatone
 IP-CIDR,69.46.75.0/24,talkatone
 IP-CIDR,205.164.56.0/24,talkatone
 IP-CIDR,63.251.124.0/24,talkatone
+# > Gemini / Google AI
+HOST-SUFFIX,gemini.google.com,talkatone
+HOST-SUFFIX,ai.google.dev,talkatone
+HOST-SUFFIX,aistudio.google.com,talkatone
+HOST-SUFFIX,generativelanguage.googleapis.com,talkatone
+HOST-SUFFIX,bard.google.com,talkatone
+# > Gemini 辅助接口（社区规则收录）
+HOST,proactivebackend-pa.googleapis.com,talkatone
+# > Perplexity AI
+HOST-SUFFIX,perplexity.ai,talkatone
+HOST-SUFFIX,pplx.ai,talkatone
+# > Grok / xAI
+HOST-SUFFIX,grok.com,talkatone
+HOST-SUFFIX,x.ai,talkatone
